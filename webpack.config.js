@@ -1,7 +1,6 @@
 var path = require('path');
 module.exports = {
  
-    //location and name of our entry file
     entry : './app/main.js',
  
     //where to put our transpiled and bundled code
